@@ -1,0 +1,40 @@
+/* Estilos para el contenedor principal */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+/* Estilos para el logo del hospital */
+.logo {
+    margin-bottom: 20px;
+}
+
+.logo img {
+    max-width: 200px;
+    height: auto;
+}
+
+/* Estilos para el contenedor del número de turno */
+.turno {
+    text-align: center;
+}
+
+.turno h1 {
+    color: #333;
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+#numero_turno {
+    font-size: 3rem;
+    color: #007bff;
+}
+
+/* Estilos para el contenedor de la fecha y hora */
+.fecha-hora {
+    margin-top: 20px;
+    font-size: 1.2rem;
+}

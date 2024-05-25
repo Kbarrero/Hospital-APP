@@ -1,0 +1,32 @@
+/* Estilos para el área de la ventanilla */
+.ventanilla {
+    font-family: 'Roboto', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    background-color: #e5eaef;
+    padding: 20px;
+    border: 6px solid #007bff;
+    border-radius: 30px;
+    width: 300px;
+    margin: 50px auto;
+}
+
+.ventanilla h1 {
+    font-family: 'Roboto', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #333;
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.ventanilla p {
+    color: #333;
+    font-size: 1rem;
+    margin-top: 20px;
+}
+
+/* Estilos para el número de turno */
+.numero-turno {
+    font-size: 3rem;
+    color: #007bff;
+    font-weight: bold;
+   
+}
